@@ -37,3 +37,4 @@ next.addEventListener("click", function() {
     images[0].classList.add("active");
   }
 });
+
