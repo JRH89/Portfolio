@@ -3,7 +3,7 @@ display: table;
 margin: 0 auto;
 }
 .cert-link {
-    color: rgb(246, 243, 249);
+    color: darkgoldenrod;
   }
   
 .cert-link2 {
@@ -21,7 +21,7 @@ margin: 0 auto;
   }
   
   .email-btn{
-    background-color: rgb(71, 21, 125);
+    background-color: rgb(7, 30, 209);
     color: rgb(2, 10, 41);
     border: none;
     width: 80px;
@@ -38,7 +38,7 @@ margin: 0 auto;
     
   
   .social-icons button:hover{
-    background-color: rgb(67, 129, 16);
+    background-color: rgb(61, 16, 111);
   }
   
   li p {
