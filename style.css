@@ -2,3 +2,51 @@ ul{
 display: table;
 margin: 0 auto;
 }
+.cert-link {
+    color: white;
+  }
+  
+.cert-link2 {
+    color: darkgoldenrod;
+}
+.period {
+    color: rgb(190, 143, 22);
+  }
+  .social-icons a {
+    display: inline-block;
+    width:40px;
+    height:40px;
+    margin: 0 10px;
+    vertical-align: middle;
+  }
+  
+  .email-btn{
+    background-color: rgb(71, 21, 125);
+    color: rgb(2, 10, 41);
+    border: none;
+    width: 80px;
+    height: 35px;
+    font-size: 25px;
+    display:inline-block;
+    vertical-align: middle;
+    font-weight: bolder;
+    border-radius: 3px;
+  }
+  
+ 
+    
+    
+  
+  .social-icons button:hover{
+    background-color: rgb(67, 129, 16);
+  }
+  
+  li p {
+    font-size: 14px;
+    color: gray;
+    margin: 5px 0;
+  }
+  
+  .social-icons{
+    margin-left: -50px;
+}
