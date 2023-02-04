@@ -17,8 +17,8 @@ display: table;
   }
   .social-icons a {
     display: inline-block;
-    width:80px;
-    height:80px;
+    width:40px;
+    height:40px;
     margin: 0 10px;
     vertical-align: middle;
   }
@@ -27,8 +27,8 @@ display: table;
     background-color: rgb(7, 30, 209);
     color: rgb(2, 10, 41);
     border: none;
-    width: 160px;
-    height: 70px;
+    width: 80px;
+    height: 35px;
     font-size: 25px;
     display:inline-block;
     vertical-align: middle;
