@@ -3,6 +3,7 @@
 
 ul{
 display: table;
+list-style: none;
 
 }
 .cert-link {
