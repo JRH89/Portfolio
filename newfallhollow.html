@@ -85,9 +85,21 @@
       }
 
       @media only screen and (max-width: 768px) {
-        p {
+        .container > div > p {
+          width: 48%;
           font-size: 1em;
+          line-height: 1;
           margin: 5%;
+          text-align: center;
+        }
+        .container > .rows {
+         
+          flex-direction: column;
+        }
+
+        .container {
+         
+          flex-direction: column;
         }
       }
       
