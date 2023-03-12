@@ -89,11 +89,19 @@
           flex-direction: column;
         }
 
+        .container > div > video {
+          width: 90%
+        }
+
         .container > div > p {
           width: 90%;
           font-size: 1em;
           line-height: 1;
           margin: 5% auto;
+        }
+
+        .container > div {
+          width: 90%;
         }
 
         .container > div:nth-child(even) > iframe {
@@ -109,6 +117,10 @@
         }
 
         .container .rows:nth-child(odd) {
+          flex-direction: column;
+        }
+
+        .container .rows:nth-child(even) {
           flex-direction: column;
         }
       }
